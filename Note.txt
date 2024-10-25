@@ -1,0 +1,29 @@
+VB2:
+CA1:Hiểu biết về chính trị, kinh tế, văn hóa - xã hội
+	& Toán cao cấp.
+	* Các vấn đề trọng tâm của môn Toán cao cấp, gồm:
+	- Hàm số một biến số thực: Giới hạn và tính liên tục của hàm số; Phép
+	tính vi phân của hàm một biến; Phép tính tích phân của hàm một biến;
+	- Hàm số nhiều biến số thực: Đạo hàm riêng của hàm nhiều biến; Cực trị
+	của hàm nhiều biến;
+	- Tích phân hàm nhiều biến: Tích phân hai lớp, các công thức đổi biến;
+	Tích phân ba lớp, các công thức đổi biến; Tích phân đường và công thức Green;
+	- Lý thuyết chuỗi: Chuỗi số dương; Chuỗi đan dấu; Chuỗi lũy thừa;
+	- Phương trình vi phân: Phương trình vi phân cấp một (tách biến, đẳng cấp,
+	tuyến tính, Bernoulli); Phương trình vi phân tuyến tính cấp hai với hệ số hằng;
+	- Đại số tuyến tính: Ma trận và các phép toán trên ma trận; Định thức và
+	cách tính định thức; Hệ phương trình tuyến tính.
+III. TÀI LIỆU ÔN TẬP
+A. Môn Toán cao cấp
+1. Nguyễn Đình Trí, Tạ Văn Đĩnh, Nguyễn Hồ Quỳnh (2006), Toán học
+cao cấp, tập 1, NXB Giáo dục, Hà Nội.
+2. Nguyễn Đình Trí, Tạ Văn Đĩnh, Nguyễn Hồ Quỳnh (2006), Toán học
+cao cấp, tập 2, NXB Giáo dục, Hà Nội.
+3. Nguyễn Đình Trí, Tạ Văn Đĩnh, Nguyễn Hồ Quỳnh (2006), Toán học
+cao cấp, tập 3, NXB Giáo dục, Hà Nội.
+4. Nguyễn Đình Trí, Tạ Văn Đĩnh, Nguyễn Hồ Quỳnh (2006), Bài tập
+Toán học cao cấp, tập 1, NXB Giáo dục, Hà Nội.
+5. Nguyễn Đình Trí, Tạ Văn Đĩnh, Nguyễn Hồ Quỳnh (2006), Bài tập
+Toán học cao cấp, tập 2, NXB Giáo dục, Hà Nội.
+6. Nguyễn Đình Trí, Tạ Văn Đĩnh, Nguyễn Hồ Quỳnh (2006), Bài tập
+Toán học cao cấp, tập 3, NXB Giáo dục, Hà Nội.
